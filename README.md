@@ -170,7 +170,7 @@ A. Persistencia
 
 Cargar el bundle con:
 
-curl -X POST -H "Content-Type: application/fhir+json" -d @neumonia-bundle.json http://localhost:8080/fhir/Bundle
+curl -X POST -H "Content-Type: application/fhir+json" -d @neumonia-bundle.json http://localhost:8080/fhir
 
 B. Consultas guiadas
 
